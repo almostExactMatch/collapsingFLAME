@@ -1,0 +1,9 @@
+jupyter
+ipython >= 5.7.0
+python == 2.7
+pandas >= 0.23.0
+numpy >=1.14.3
+scikit-learn >= 0.19.1
+sqlalchemy >= 1.2.8
+matplotlib >= 1.4.0   
+seaborn >= 0.8.1 
