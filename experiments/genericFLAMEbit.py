@@ -522,15 +522,15 @@ def run_bit(df, holdout, covs, covs_max_list,threshold, tradeoff_param = 0.1):
 
 # In[37]:
 
-
-d = data_generation_dense_2(10000, 10000, 1,5, control_m = 0.1, treated_m = 0.9)
-df = d[0] 
-holdout,_,_ = data_generation_dense_2(10000, 10000, 1,5, control_m = 0.1, treated_m = 0.9)
+#example
+#d = data_generation_dense_2(10000, 10000, 1,5, control_m = 0.1, treated_m = 0.9)
+#df = d[0] 
+#holdout,_,_ = data_generation_dense_2(10000, 10000, 1,5, control_m = 0.1, treated_m = 0.9)
 
 
 # In[38]:
 
-res = run_bit(df, holdout, range(6), [2]*6, threshold = 0, tradeoff_param = 0.001)
+#res = run_bit(df, holdout, range(6), [2]*6, threshold = 0, tradeoff_param = 0.001)
 
 
 # In[ ]:
