@@ -5,9 +5,10 @@ This is the repository for the paper [Collapsing-Fast-Large-Almost-Matching-Exac
 
       clone this repository;
 
-* **Step2**     
-   
-      open the experiments notebooks and run all cells;
+* **Step2**  
+
+      To reproduce <name-of-experiment>:  
+      open the experiments/<name-of-experiement> notebook and run all cells;
       
 The "experiments" folder contains jupyter notebooks to reproduce the results from the paper.
 Please follow the instructions in the notebooks to run the FLAME algorithms and obtain the dataframe for the matched groups and estimated CATEs.
