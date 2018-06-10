@@ -7,7 +7,7 @@ This is the repository for the paper [Collapsing-Fast-Large-Almost-Matching-Exac
       
 * **Step2**
       
-      Make sure all required packages are up-to-date (see requirements.txt)
+      Make sure all required packages are up-to-date (see requirements.txt);
 
 * **Step3**  
 
