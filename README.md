@@ -1,6 +1,5 @@
 # Collapsing-Fast-Large-Almost-Matching-Exactly: A Matching Method for Causal Inference [[Paper]](https://arxiv.org/list/stat.ML/recent). 
 Awa Dieng, Yameng Liu, Sudeepa Roy, Cynthia Rudin, Alexander Volsfovsky 
-
 Duke University
 
 ## Abstract
@@ -15,7 +14,7 @@ We aim to create the highest possible quality of treatment-control matches for c
       
       pip install -r requirements.txt
 
-* **Step3**: To reproduce <name-of-experiment>: 
+* **Step3**: To reproduce name-of-experiment: 
  
       open the experiments/<name-of-experiement> notebook and run all cells;
       
