@@ -1,4 +1,4 @@
-# Collapsing-Fast-Large-Almost-Matching-Exactly: A Matching Method for Causal Inference [Paper](https://arxiv.org/list/stat.ML/recent). 
+# Collapsing-Fast-Large-Almost-Matching-Exactly: A Matching Method for Causal Inference [[Paper]](https://arxiv.org/list/stat.ML/recent). 
 Awa Dieng, Yameng Liu, Sudeepa Roy, Cynthia Rudin, Alexander Volsfovsky 
 
 Duke University
