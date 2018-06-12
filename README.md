@@ -23,4 +23,10 @@ Please follow the instructions in the notebooks to run the FLAME algorithms and 
 
 **All scripts are in Python**.
 
+## Citation
+If you use this code, please cite:
+@article{
+  year={2018}
+}
+
 Contact adieng@cs.duke.edu for inquiries.
