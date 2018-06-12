@@ -25,8 +25,9 @@ Please follow the instructions in the notebooks to run the FLAME algorithms and 
 
 ## Citation
 If you use this code, please cite:
-@article{
-  year={2018}
-}
+
+       @article{
+         year={2018}
+       }
 
 Contact adieng@cs.duke.edu for inquiries.
