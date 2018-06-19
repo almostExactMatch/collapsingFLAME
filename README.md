@@ -25,8 +25,7 @@ Please follow the instructions in the notebooks to run the FLAME algorithms and 
 If you use this code, please cite:
 
       @article{2018arXiv180606802D,
-          author = {{Dieng}, A. and {Liu}, Y. and {Roy}, S. and {Rudin}, C. and 
-	{Volfovsky}, A.},
+          author = {{Dieng}, A. and {Liu}, Y. and {Roy}, S. and {Rudin}, C. and {Volfovsky}, A.},
           title = "{Collapsing-Fast-Large-Almost-Matching-Exactly: A Matching Method for Causal Inference}",
           journal = {ArXiv e-prints},
           archivePrefix = "arXiv",
