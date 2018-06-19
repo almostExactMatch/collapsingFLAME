@@ -1,4 +1,4 @@
-# Collapsing-Fast-Large-Almost-Matching-Exactly: A Matching Method for Causal Inference [[Paper]](https://arxiv.org/list/stat.ML/recent). 
+# Collapsing-Fast-Large-Almost-Matching-Exactly: A Matching Method for Causal Inference [[Paper]](https://arxiv.org/abs/1806.06802). 
 Awa Dieng, Yameng Liu, Sudeepa Roy, Cynthia Rudin, Alexander Volsfovsky <br>
 Duke University
 
@@ -11,8 +11,6 @@ We aim to create the highest possible quality of treatment-control matches for c
       git clone https://github.com/almostExactMatch/collapsingFLAME.git
       
 * **Step2**: Make sure all required packages are up-to-date (see requirements.txt);
-      
-      pip install -r requirements.txt
 
 * **Step3**: To reproduce name-of-experiment: 
  
@@ -26,8 +24,7 @@ Please follow the instructions in the notebooks to run the FLAME algorithms and 
 ## Citation
 If you use this code, please cite:
 
-       @article{
-         year={2018}
-       }
+      @article{
+      }
 
 Contact adieng@cs.duke.edu for inquiries.
